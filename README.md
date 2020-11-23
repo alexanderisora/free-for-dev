@@ -724,6 +724,7 @@ Table of Contents
   * [Vercel](https://vercel.com/) — Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
   * [HostingTocDo](https://hostingtocdo.cyou/) — Free Unlimited Web Hosting Service for PHP, MySQL no ads include.
+  * [Unicorn Platform](https://unicornplatform.com/) — The modern landing page builder for startups and side-projects. The free plan insludes one website on a subdomain, all components (85+) and unlimited custom code customization (JS/CSS/HTML). Use the "free-for-dev" coupon to get a 20% recurring discount forever.
 
 ## DNS
 
